@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> My name is PRATEEK
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> My name is Soham
 
 
 ## Web Developer and Designer
@@ -31,8 +31,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="36" height="36" /> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="36" height="36"/> </a>
 <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="36" height="36" /> </a> 
-
-<a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://imgicons8.com/color/48/000000/spring-logo.png" width="36" height="36"/>  </a> 
 </p>
 
 
@@ -42,11 +40,8 @@
 <p align="left"> 
 <a href="https://www.github.com/SOHAM15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/soham-srivastava-5aa231193/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-
- <a href="http://www.instagram.com/soham_srivastav_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-
+<a href="http://www.instagram.com/soham_srivastav_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.facebook.com/soham.srivastava.547/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-
 </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=prateekszm&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
